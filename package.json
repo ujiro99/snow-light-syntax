@@ -1,9 +1,9 @@
 {
-  "name": "atom-light-syntax",
+  "name": "snow-light-syntax",
   "theme": "syntax",
-  "version": "0.22.0",
-  "description": "Default light syntax theme",
-  "repository": "https://github.com/atom/atom-light-syntax",
+  "version": "0.1.0",
+  "description": "snow light syntax theme",
+  "repository": "https://github.com/ujiro99/snow-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
